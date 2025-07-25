@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-qdns [![Build](https://github.com/moritz-makandra/asdf-plugin-qdns/actions/workflows/build.yml/badge.svg)](https://github.com/moritz-makandra/asdf-plugin-qdns/actions/workflows/build.yml) [![Lint](https://github.com/moritz-makandra/asdf-plugin-qdns/actions/workflows/lint.yml/badge.svg)](https://github.com/moritz-makandra/asdf-plugin-qdns/actions/workflows/lint.yml)
+# asdf-qdns [![Build](https://github.com/eheinle-mak/asdf-plugin-qdns/actions/workflows/build.yml/badge.svg)](https://github.com/eheinle-mak/asdf-plugin-qdns/actions/workflows/build.yml) [![Lint](https://github.com/eheinle-mak/asdf-plugin-qdns/actions/workflows/lint.yml/badge.svg)](https://github.com/eheinle-mak/asdf-plugin-qdns/actions/workflows/lint.yml)
 
 
 [natesales/q](https://github.com/natesales/q) plugin for the [asdf version manager](https://asdf-vm.com).
@@ -23,14 +23,14 @@
 Plugin:
 
 ```shell
-asdf plugin add qdns https://github.com/moritz-makandra/asdf-plugin-qdns.git
+asdf plugin add qdns https://github.com/eheinle-mak/asdf-plugin-qdns.git
 ```
 
 qdns:
 
 ```shell
 # Show all installable versions
-asdf list-all qdns
+asdf list all qdns
 
 # Install specific version
 asdf install qdns latest
@@ -49,8 +49,8 @@ install & manage versions.
 
 Contributions of any kind welcome! See the [contributing guide](contributing.md).
 
-[Thanks goes to these contributors](https://github.com/moritz-makandra/asdf-plugin-qdns/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/eheinle-mak/asdf-plugin-qdns/graphs/contributors), especially to [Moritz Kraus](https://github.com/moritz-makandra/).
 
 # License
 
-See [LICENSE](LICENSE) © [Moritz Kraus](https://github.com/moritz-makandra/)
+See [LICENSE](LICENSE)
